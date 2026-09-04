@@ -6,7 +6,7 @@
 
 Building scalable full-stack applications, APIs and distributed systems with Angular, Node.js, TypeScript, Python and Cloud technologies.
 
-**Angular** • **Node.js** • **TypeScript** • **Python** • **AWS** • **Microservices**
+**Angular** • **Node.js** • **JavaScript** . **TypeScript** • **Python** • **AWS** • **Microservices**
 
 </div>
 
